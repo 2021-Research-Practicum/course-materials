@@ -1,6 +1,7 @@
 ## Winter 2021 practicum
 
 pakistan_data/_private
+pakistan_data/pakistan_trimmed.csv
 
 *.tex
 *.Rmd
