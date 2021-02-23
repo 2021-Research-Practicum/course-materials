@@ -1,0 +1,1429 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Imbens",
+                    "given": "G. W."
+                },
+                {
+                    "family": "Rosenbaum",
+                    "given": "P. R."
+                }
+            ],
+            "container-title": "Journal of the Royal Statistical Society Series A",
+            "id": "imbens2005robust",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "109-126",
+            "publisher": "Blackwell Publishing",
+            "title": "Robust, accurate confidence intervals with a weak instrument: Quarter of birth and education",
+            "title-short": "Robust, accurate confidence intervals with a weak instrument",
+            "type": "article-journal",
+            "volume": "168"
+        },
+        {
+            "URL": "https://www.cgdev.org/sites/default/files/WP565-Evans-Ethical-issues-and-RCTs.pdf",
+            "abstract": "Randomised controlled trials in development economics, political science, and other social science fields have been on the rise in recent decades. Recent awards and trials in development economics have re-ignited active discussions of the ethics of these trials. This note surveys common ethical concerns and proposes a series of practical suggestions to help researchers and policymakers be more mindful of and transparent about ethics as they consider, design, implement, and report randomised controlled trials and other impact evaluations in development settings.",
+            "author": [
+                {
+                    "family": "Evans",
+                    "given": "David K."
+                }
+            ],
+            "genre": "Working Paper",
+            "id": "Evans2021ethics",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "number": "565",
+            "publisher": "Center for Global Development",
+            "title": "Towards improved and more transparent ethics in randomised controlled trials in development social science",
+            "type": "report"
+        },
+        {
+            "DOI": "10.3386/w28393",
+            "URL": "http://www.nber.org/papers/w28393",
+            "abstract": "Ethics in social science experimentation and data collection are often discussed but rarely articulated in writing as part of research outputs. Although papers typically reference human subjects research approvals from relevant institutional review boards, most recognize that such boards are not comprehensive ethical assessments. We propose a structured ethics appendix to provide details on the following: policy equipoise, role of the researcher, potential harms to participants and nonparticipants, conflicts of interest, intellectual freedom, feedback to participants, and foreseeable misuse of research results. We discuss each of these, and some of the norms and challenging situations of each. We believe that discussing such issues explicitly in appendices of papers, even if briefly, will serve two purposes: more complete communication of ethics can improve discussions of papers and can clarify and improve the norms themselves.",
+            "author": [
+                {
+                    "family": "Asiedu",
+                    "given": "Edward"
+                },
+                {
+                    "family": "Karlan",
+                    "given": "Dean"
+                },
+                {
+                    "family": "Lambon-Quayefio",
+                    "given": "Monica P"
+                },
+                {
+                    "family": "Udry",
+                    "given": "Christopher R"
+                }
+            ],
+            "collection-title": "Working paper series",
+            "genre": "Working Paper",
+            "id": "Asieduetal2021ethics",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "number": "28393",
+            "publisher": "National Bureau of Economic Research",
+            "title": "A call for structured ethics appendices in social science papers",
+            "type": "report"
+        },
+        {
+            "ISBN": "0226041247",
+            "author": [
+                {
+                    "family": "Becker",
+                    "given": "Howard S."
+                }
+            ],
+            "id": "howardsbecker1998a",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "publisher": "University Of Chicago Press",
+            "title": "Tricks of the trade : How to think about your research while you’re doing it (chicago guides to writing, editing, and publishing)",
+            "title-short": "Tricks of the trade ",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Shadish",
+                    "given": "William R"
+                },
+                {
+                    "family": "Cook",
+                    "given": "Thomas D"
+                },
+                {
+                    "family": "Campbell",
+                    "given": "Donald Thomas"
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "id": "shadish2002experimental",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "publisher": "Boston: Houghton Mifflin,",
+            "title": "Experimental and quasi-experimental designs for generalized causal inference/william r. Shedish, thomas d. Cook, donald t. campbell.",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Leavitt",
+                    "given": "Thomas"
+                }
+            ],
+            "container-title": "The SAGE handbook of research methods in political science and international relations",
+            "editor": [
+                {
+                    "family": "Curini",
+                    "given": "Luigi"
+                },
+                {
+                    "family": "Franzese",
+                    "given": "Robert"
+                }
+            ],
+            "id": "bowers2020causality",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Sage Publications Ltd",
+            "title": "Causality & design-based inference",
+            "type": "chapter"
+        },
+        {
+            "ISBN": "1939-1455 (Electronic)\\backslashr0033-2909 (Linking)",
+            "ISSN": "1939-1455",
+            "PMID": "25180805",
+            "URL": "http://www.stat.columbia.edu/ gelman/research/unpublished/p_hacking.pdf%5Cnhttp://doi.apa.org/getdoi.cfm?doi=10.1037/a0037714",
+            "author": [
+                {
+                    "family": "Gelman",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Loken",
+                    "given": "Eric"
+                }
+            ],
+            "container-title": "Psychological bulletin",
+            "id": "gelman2013garden",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "keyword": "cycle shifts in women,ovulation",
+            "page": "1272-1280",
+            "title": "The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time",
+            "type": "article-journal",
+            "volume": "140"
+        },
+        {
+            "DOI": "10.2307/1266041",
+            "ISBN": "9781584885740",
+            "ISSN": "00401706",
+            "PMID": "25246403",
+            "URL": "http://www.jstor.org/stable/1266041?origin=crossref",
+            "abstract": "Adopting a unifying theme based on maximum statistics, Multiple Comparisons Using R describes the common underlying theory of multiple comparison procedures through numerous examples. It also presents a detailed description of available software implementations in R. The R packages and source code for the analyses are available at http://CRAN.R-project.org After giving examples of multiplicity problems, the book covers general concepts and basic multiple comparisons procedures, including the Bonferroni method and Simes’ test. It then shows how to perform parametric multiple comparisons in standard linear models and general parametric models. It also introduces the multcomp package in R, which offers a convenient interface to perform multiple comparisons in a general context. Following this theoretical framework, the book explores applications involving the Dunnett test, Tukey’s all pairwise comparisons, and general multiple contrast tests for standard regression models, mixed-effects models, and parametric survival models. The last chapter reviews other multiple comparison procedures, such as resampling-based procedures, methods for group sequential or adaptive designs, and the combination of multiple comparison procedures with modeling techniques. Controlling multiplicity in experiments ensures better decision making and safeguards against false claims. A self-contained introduction to multiple comparison procedures, this book offers strategies for constructing the procedures and illustrates the framework for multiple hypotheses testing in general parametric models. It is suitable for readers with R experience but limited knowledge of multiple comparison procedures and vice versa. See Dr. Bretz discuss the book.",
+            "author": [
+                {
+                    "family": "Bretz",
+                    "given": "Frank"
+                },
+                {
+                    "family": "Hothorn",
+                    "given": "Torsten"
+                },
+                {
+                    "family": "Westfall",
+                    "given": "Peter"
+                }
+            ],
+            "id": "bretz2011",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "182",
+            "publisher": "CRC Press",
+            "publisher-place": "Boca Raton",
+            "title": "Multiple comparisons using R",
+            "type": "book"
+        },
+        {
+            "ISSN": "0035-9246",
+            "PMID": "2346101",
+            "URL": "http://www.jstor.org/stable/2346101",
+            "author": [
+                {
+                    "family": "Benjamini",
+                    "given": "Yoav"
+                },
+                {
+                    "family": "Hochberg",
+                    "given": "Yosef"
+                }
+            ],
+            "container-title": "Journal of the Royal Statistical Society",
+            "id": "benjamini1995",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "keyword": "BONFERRONI-TYPE PROCEDURES,FAMILYWISE ERROR RATE,MULTIPLE-COMPARISON PROCEDURES,p-VALUES",
+            "page": "289-300",
+            "publisher": "WileyRoyal Statistical Society",
+            "title": "Controlling the false discovery rate: a practical and powerful approach to multiple testing",
+            "type": "article-journal",
+            "volume": "57"
+        },
+        {
+            "annote": "In this paper, and the other one in <i>Science</i>, they use individuals as informants about their own neighborhood in order to create a measure of “collective efficacy” for each neighborhood. They use a measurement model to combine the reports of a number of people in each neighborhood at the first and second levels of a multilevel model. The article in Science is a very clear exposition of the method.",
+            "author": [
+                {
+                    "family": "Raudenbush",
+                    "given": "Stephen W."
+                },
+                {
+                    "family": "Sampson",
+                    "given": "Robert J."
+                }
+            ],
+            "id": "rasa98",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997
+                    ]
+                ]
+            },
+            "keyword": "statistics",
+            "title": "“Ecometrics:” Toward a science of assessing ecological settings, with application to the systematic social observation of neighborhoods",
+            "type": "manuscript"
+        },
+        {
+            "author": [
+                {
+                    "family": "Adcock",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Collier",
+                    "given": "David"
+                }
+            ],
+            "container-title": "American Political Science Review",
+            "id": "adcocoll:2001",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "page": "529-546",
+            "title": "Measurement validity: A shared standard for qualitative and measurement validity: A shared standard for qualitative and quantitative research.",
+            "title-short": "Measurement validity",
+            "type": "article-journal",
+            "volume": "95"
+        },
+        {
+            "author": [
+                {
+                    "family": "Gould",
+                    "given": "Stephen Jay"
+                }
+            ],
+            "id": "gould1996mismeasure",
+            "issued": {
+                "date-parts": []
+            },
+            "publisher": "WW Norton & Company",
+            "title": "The mismeasure of man",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Blalock",
+                    "given": "Hubert M."
+                }
+            ],
+            "id": "blhu82",
+            "issued": {
+                "date-parts": [
+                    [
+                        1982
+                    ]
+                ]
+            },
+            "keyword": "methodology statistics",
+            "publisher": "Sage Publications",
+            "publisher-place": "Beverly Hills",
+            "title": "Conceptualization and measurement in the social sciences",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Tourangeau",
+                    "given": "Roger"
+                },
+                {
+                    "family": "Rips",
+                    "given": "Lance J"
+                },
+                {
+                    "family": "Rasinski",
+                    "given": "Kenneth"
+                }
+            ],
+            "id": "tourangeau2000psychology",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "The psychology of survey response",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Christensen",
+                    "given": "Garret S."
+                },
+                {
+                    "family": "Freese",
+                    "given": "Jeremy"
+                },
+                {
+                    "family": "Miguel",
+                    "given": "Edward"
+                }
+            ],
+            "id": "christensen_transparent_2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "publisher": "University of California Press",
+            "publisher-place": "Oakland, California",
+            "title": "Transparent and reproducible social science research: How to do open science",
+            "title-short": "Transparent and reproducible social science research",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Vicente",
+                    "given": "Pedro C."
+                }
+            ],
+            "container-title": "Economic Journal",
+            "id": "vicente_is_2014",
+            "issue": "574",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "F356-87",
+            "title": "Is Vote Buying Effective? Evidence from a Field Experiment in West Africa",
+            "type": "article-journal",
+            "volume": "124"
+        },
+        {
+            "author": [
+                {
+                    "family": "Scacco",
+                    "given": "Alexandra"
+                },
+                {
+                    "family": "Warren",
+                    "given": "Shana S."
+                }
+            ],
+            "container-title": "American Political Science Review",
+            "id": "scacco_can_2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "654-677",
+            "title": "Can Social Contact Reduce Prejudice and Discrimination? Evidence from a Field Experiment in Nigeria",
+            "type": "article-journal",
+            "volume": "112"
+        },
+        {
+            "author": [
+                {
+                    "family": "Giacomini",
+                    "given": "Mita"
+                }
+            ],
+            "container-title": "Perspectives in Biology and Medicine",
+            "id": "giacomini2009theory",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "234-251",
+            "publisher": "The Johns Hopkins University Press",
+            "title": "Theory-based medicine and the role of evidence: Why the emperor needs new clothes, again",
+            "title-short": "Theory-based medicine and the role of evidence",
+            "type": "article-journal",
+            "volume": "52"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Testa",
+                    "given": "Paul"
+                }
+            ],
+            "container-title": "Annual Review of Political Science",
+            "id": "bowerstesta2019epp",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "title": "Better government, better science: The promise of and challenges facing the evidence-informed policy movement",
+            "title-short": "Better government, better science",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Voors",
+                    "given": "Maarten"
+                }
+            ],
+            "container-title": "Revista de Ciencia Polı́tica",
+            "id": "bowers2016future",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "829-848",
+            "title": "Six steps to a better relationship with your future self, v 2.0",
+            "type": "article-journal",
+            "volume": "36"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Desmarais",
+                    "given": "Bruce A"
+                },
+                {
+                    "family": "Frederickson",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Ichino",
+                    "given": "Nahomi"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Hsuan-Wei"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Simi"
+                }
+            ],
+            "container-title": "Social Networks",
+            "id": "bowers2018models",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "196-208",
+            "publisher": "Elsevier",
+            "title": "Models, methods and network topology: Experimental design for the study of interference",
+            "title-short": "Models, methods and network topology",
+            "type": "article-journal",
+            "volume": "54"
+        },
+        {
+            "abstract": "10.1093/pan/mpw018",
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Fredrickson",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Aronow",
+                    "given": "Peter M"
+                }
+            ],
+            "container-title": "Political Analysis",
+            "id": "bowers2016research",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "395-403",
+            "title": "Research note: A more powerful test statistic for reasoning about interference between units",
+            "title-short": "Research note",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Fredrickson",
+                    "given": "Mark M"
+                },
+                {
+                    "family": "Panagopoulos",
+                    "given": "Costas"
+                }
+            ],
+            "container-title": "Political Analysis",
+            "id": "bowers2013reasoning",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "97-124",
+            "publisher": "SPM-PMSAPSA",
+            "title": "Reasoning about Interference Between Units: A General Framework",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hartman",
+                    "given": "Erin"
+                },
+                {
+                    "family": "Hidalgo",
+                    "given": "F Daniel"
+                }
+            ],
+            "container-title": "American Journal of Political Science",
+            "id": "hartman2018equivalence",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "1000-1013",
+            "publisher": "Wiley Online Library",
+            "title": "An equivalence approach to balance and placebo tests",
+            "type": "article-journal",
+            "volume": "62"
+        },
+        {
+            "author": [
+                {
+                    "family": "Caughey",
+                    "given": "Devin"
+                },
+                {
+                    "family": "Dafoe",
+                    "given": "Allan"
+                },
+                {
+                    "family": "Seawright",
+                    "given": "Jason"
+                }
+            ],
+            "container-title": "The Journal of Politics",
+            "id": "caughey2017nonparametric",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "688-701",
+            "publisher": "University of Chicago Press Chicago, IL",
+            "title": "Nonparametric combination (NPC): A framework for testing elaborate theories",
+            "title-short": "Nonparametric combination (NPC)",
+            "type": "article-journal",
+            "volume": "79"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hansen",
+                    "given": "Ben B."
+                },
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                }
+            ],
+            "container-title": "Statistical Science",
+            "id": "hansen:bowers:2008",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "219-236",
+            "title": "Covariate balance in simple, stratified and clustered comparative studies",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "ISSN": "01621459",
+            "abstract": "A Hodges-Lehmann point estimate of an additive treatment effect is a robust estimate derived from the randomization distribution of a rank test. This article shows how to carry out a sensitivity analysis for such an estimate in an observational study where treatments are not randomly assigned. Two cases are discussed in detail: matched pairs and the comparison of two unmatched groups. The method uses a model for the distribution of treatment assignments when hidden biases may be present. This model has previously been used for sensitivity analysis of significance levels and confidence intervals.",
+            "author": [
+                {
+                    "family": "Rosenbaum",
+                    "given": "Paul R."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "rosenbaum1993hlp",
+            "issue": "424",
+            "issued": {
+                "date-parts": [
+                    [
+                        1993
+                    ]
+                ]
+            },
+            "page": "1250-1253",
+            "publisher": "American Statistical Association",
+            "title": "Hodges-lehmann point estimates of treatment effect in observational studies",
+            "type": "article-journal",
+            "volume": "88"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rosenbaum",
+                    "given": "P R"
+                }
+            ],
+            "container-title": "Springer series in statistics",
+            "id": "rosenbaum2010design",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "publisher": "New York [etc.]: Springer",
+            "title": "Design of observational studies",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hodges",
+                    "given": "J. L."
+                },
+                {
+                    "family": "Lehmann",
+                    "given": "E. L."
+                }
+            ],
+            "container-title": "Ann. Math. Statist",
+            "id": "hodges1963elb",
+            "issued": {
+                "date-parts": [
+                    [
+                        1963
+                    ]
+                ]
+            },
+            "page": "598-611",
+            "title": "Estimates of location based on rank tests",
+            "type": "article-journal",
+            "volume": "34"
+        },
+        {
+            "author": [
+                {
+                    "family": "Holland",
+                    "given": "Paul W."
+                }
+            ],
+            "container-title": "Journal of the American Statistical Association",
+            "id": "holland:1986",
+            "issued": {
+                "date-parts": [
+                    [
+                        1986
+                    ]
+                ]
+            },
+            "keyword": "statistics",
+            "page": "945-960",
+            "title": "Statistics and causal inference",
+            "type": "article-journal",
+            "volume": "81"
+        },
+        {
+            "author": [
+                {
+                    "family": "Cartwright",
+                    "given": "Nancy"
+                },
+                {
+                    "family": "Hardie",
+                    "given": "Jeremy"
+                }
+            ],
+            "id": "cartwright2012evidence",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "publisher": "Oxford University Press",
+            "title": "Evidence-based policy: a practical guide to doing it better",
+            "type": "book"
+        },
+        {
+            "ISBN": "0031-8116 U6 - ctx_ver=Z39.88-2004&ctx_enc=info%3Aofi%2Fenc%3AUTF-8&rfr_id=info:sid/summon.serialssolutions.com&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Evidence-based+policy%3A+what%E2%80%99s+to+be+done+about+relevance%3F&rft.jtitle=Philosophical+Studies&rft.au=Cartwright%2C+Nancy&rft.date=2009-03-01&rft.pub=Springer+Netherlands&rft.issn=0031-8116&rft.eissn=1573-0883&rft.volume=143&rft.issue=1&rft.spage=127&rft.epage=136&rft_id=info:doi/10.1007%2Fs11098-008-9311-4&r",
+            "ISSN": "0031-8116",
+            "author": [
+                {
+                    "family": "Cartwright",
+                    "given": "Nancy"
+                }
+            ],
+            "container-title": "Philosophical Studies",
+            "id": "cartwright2009",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009,
+                        3
+                    ]
+                ]
+            },
+            "keyword": "Effectiveness,Efficacy,Evidence,Evidence-based policy,Evidential relevance,Randomized controlled trials",
+            "page": "127-136",
+            "publisher": "Springer Netherlands",
+            "title": "Evidence-based policy: What’s to be done about relevance? : f 2008 Oberlin Philosophy Colloquium",
+            "type": "article-journal",
+            "volume": "143"
+        },
+        {
+            "URL": "https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199286546.001.0001/oxfordhb-9780199286546-e-10",
+            "author": [
+                {
+                    "family": "Brady",
+                    "given": "Henry E"
+                }
+            ],
+            "container-title": "The oxford handbook of political science",
+            "id": "brady2008causation",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "title": "Causation and explanation in social science",
+            "type": "chapter"
+        },
+        {
+            "URL": "https://CRAN.R-project.org/package=clubSandwich",
+            "author": [
+                {
+                    "family": "Pustejovsky",
+                    "given": "James"
+                }
+            ],
+            "id": "pustejovsky2019cr",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "note": "R package version 0.3.3",
+            "title": "clubSandwich: Cluster-robust (sandwich) variance estimators with small-sample corrections",
+            "title-short": "clubSandwich",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Aronow",
+                    "given": "Peter M"
+                },
+                {
+                    "family": "Middleton",
+                    "given": "Joel A"
+                }
+            ],
+            "container-title": "Journal of Causal Inference",
+            "id": "aronow2013class",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "135-154",
+            "title": "A class of unbiased estimators of the average treatment effect in randomized experiments",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "author": [
+                {
+                    "family": "Middleton",
+                    "given": "Joel A"
+                },
+                {
+                    "family": "Aronow",
+                    "given": "Peter M"
+                }
+            ],
+            "container-title": "Statistics, Politics, and Policy",
+            "id": "middleton2015unbiased",
+            "issue": "1–2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "39-75",
+            "title": "Unbiased estimation of the average treatment effect in cluster-randomized experiments",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "author": [
+                {
+                    "family": "Small",
+                    "given": "D. S."
+                },
+                {
+                    "family": "Volpp",
+                    "given": "K. G."
+                },
+                {
+                    "family": "Rosenbaum",
+                    "given": "P. R."
+                }
+            ],
+            "container-title": "The American Statistician",
+            "id": "small2011structured",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "11-15",
+            "title": "Structured testing of 2\\times 2 factorial effects: An analytic plan requiring fewer observations",
+            "title-short": "Structured testing of 2\\times 2 factorial effects",
+            "type": "article-journal",
+            "volume": "65"
+        },
+        {
+            "ISSN": "00063444",
+            "abstract": "In certain circumstances, one wishes to test one hypothesis only if certain other hypotheses have been rejected. This ordering of hypotheses simplifies the task of controlling the probability of rejecting any true hypothesis. In an example from an observational study, a treated group is shown to be further from both of two control groups than the two control groups are from each other",
+            "author": [
+                {
+                    "family": "Rosenbaum",
+                    "given": "Paul R."
+                }
+            ],
+            "container-title": "Biometrika",
+            "id": "rosenbaum2008a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "keyword": "Multiparameter hypothesis,Multiple control groups,Observational study,Ordered family of hypotheses",
+            "page": "248-252",
+            "title": "Testing hypotheses in order",
+            "type": "article-journal",
+            "volume": "95"
+        },
+        {
+            "author": [
+                {
+                    "family": "Freedman",
+                    "given": "David A."
+                }
+            ],
+            "container-title": "Statistical Science",
+            "id": "freedman2008randomization",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "237-249",
+            "title": "Randomization does not justify logistic regression",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "author": [
+                {
+                    "family": "Freedman",
+                    "given": "David A."
+                }
+            ],
+            "container-title": "Advances in Applied Mathematics",
+            "id": "freedman2008rae",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "180-193",
+            "publisher": "Elsevier",
+            "title": "On regression adjustments to experimental data",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "accessed": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                }
+            ],
+            "container-title": "Political Methodologist",
+            "id": "bowers_six_2011",
+            "issue": "2",
+            "title": "Six steps to a better relationship with your future self.",
+            "type": "article-journal",
+            "volume": "18"
+        },
+        {
+            "ISSN": "1932-6157",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lin",
+                    "given": "Winston"
+                }
+            ],
+            "container-title": "The Annals of Applied Statistics",
+            "id": "lin_agnostic_2013",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        3
+                    ]
+                ]
+            },
+            "page": "295-318",
+            "title": "Agnostic notes on regression adjustments to experimental data: Reexamining Freedman’s critique",
+            "title-short": "Agnostic notes on regression adjustments to experimental data",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "ISSN": "0006341X",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Cochran",
+                    "given": "William G."
+                }
+            ],
+            "container-title": "Biometrics",
+            "id": "cochran_methods_1954",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1954,
+                        12
+                    ]
+                ]
+            },
+            "page": "417",
+            "title": "Some Methods for Strengthening the Common χ 2 Tests",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "author": [
+                {
+                    "family": "Neyman",
+                    "given": "Jerzy"
+                }
+            ],
+            "container-title": "Annals of Agricultural Sciences",
+            "id": "neyman_application_1923",
+            "issued": {
+                "date-parts": [
+                    [
+                        1923
+                    ]
+                ]
+            },
+            "note": "Reprinted in English with discussion by T. Speed and D. B. Rubin in Statist. Sci. 5 (1990) 463–480.",
+            "page": "101-151 (in Polish).",
+            "title": "On the application of probability theory to agricultural experiments: Essay on principles, section 9.",
+            "title-short": "On the application of probability theory to agricultural experiments",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Fisher",
+                    "given": "Ronald A."
+                }
+            ],
+            "id": "fisher_design_1935",
+            "issued": {
+                "date-parts": [
+                    [
+                        1935
+                    ]
+                ]
+            },
+            "publisher": "Oliver; Boyd",
+            "publisher-place": "Edinburgh",
+            "title": "The Design of Experiments",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hansen",
+                    "given": "Ben B."
+                },
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                }
+            ],
+            "container-title": "Statistical Science",
+            "id": "hansen_covariate_2008",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "page": "219-236",
+            "title": "Covariate balance in simple, stratified and clustered comparative studies.",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mantel",
+                    "given": "N"
+                },
+                {
+                    "family": "Haenszel",
+                    "given": "W"
+                }
+            ],
+            "container-title": "Journal of the National Cancer Institute",
+            "id": "mantel_statistical_1959",
+            "issued": {
+                "date-parts": [
+                    [
+                        1959
+                    ]
+                ]
+            },
+            "page": "719-48",
+            "title": "Statistical aspects of the analysis of data from retrospective studies of disease",
+            "type": "article-journal",
+            "volume": "22"
+        },
+        {
+            "author": [
+                {
+                    "family": "Gerber",
+                    "given": "Alan S."
+                },
+                {
+                    "family": "Green",
+                    "given": "Donald P."
+                }
+            ],
+            "id": "gerber_field_2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "publisher": "W. W. Norton & Company",
+            "publisher-place": "New York, NY",
+            "title": "Field Experiments: Design, Analysis, and Interpretation",
+            "title-short": "Field Experiments",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Freedman",
+                    "given": "D. A"
+                },
+                {
+                    "family": "Pisani",
+                    "given": "R."
+                },
+                {
+                    "family": "Purves",
+                    "given": "R."
+                }
+            ],
+            "edition": "4th",
+            "id": "freedman_statistics_2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "publisher": "W. W. Norton & Company",
+            "publisher-place": "New York, NY",
+            "title": "Statistics",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Dunning",
+                    "given": "Thad"
+                }
+            ],
+            "collection-title": "Strategies for Social Inquiry",
+            "id": "dunning_natural_2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "publisher-place": "New York, NY",
+            "title": "Natural Experiments in the Social Sciences: A Design-Based Approach",
+            "title-short": "Natural Experiments in the Social Sciences",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bowers",
+                    "given": "Jake"
+                },
+                {
+                    "family": "Fredrickson",
+                    "given": "Mark"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Ben"
+                }
+            ],
+            "id": "bowers_ritools_2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "note": "R package version 0.1-15",
+            "title": "RItools: Randomization inference tools",
+            "title-short": "RItools",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Samii",
+                    "given": "Cyrus"
+                },
+                {
+                    "family": "Aronow",
+                    "given": "Peter M."
+                }
+            ],
+            "container-title": "Statistics and Probability Letters",
+            "id": "samii_equivalencies_2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "365-370",
+            "title": "On equivalences between design-based and regression-based estimators for random experiments",
+            "type": "article-journal",
+            "volume": "82"
+        },
+        {
+            "author": [
+                {
+                    "family": "Morgan",
+                    "given": "Stephen L."
+                },
+                {
+                    "family": "Winship",
+                    "given": "Christopher"
+                }
+            ],
+            "id": "morgan_counterfactuals_2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "publisher": "Cambridge Univ Press",
+            "title": "Counterfactuals and causal inference: Methods and principles for social research",
+            "title-short": "Counterfactuals and causal inference",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Glennerster",
+                    "given": "Rachel"
+                },
+                {
+                    "family": "Takavarasha",
+                    "given": "Kudzai"
+                }
+            ],
+            "id": "glennerster_running_2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "publisher": "Princeton University Press",
+            "publisher-place": "Princeton",
+            "title": "Running randomized evaluations: A practical guide",
+            "title-short": "Running randomized evaluations",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "learningdays-guide.bib"
+    ]
+}

@@ -1,0 +1,92 @@
+h1:key-points Key Points
+h2:key-points-about-estimation-1 Key Points about estimation (1)
+h2:key-points-about-estimation-2 Key Points about estimation (2)
+h2:key-points-about-estimation-3 Key Points about estimation (3)
+h2:key-points-about-estimation-4 Key Points about estimation (4)
+h2:key-points-about-estimation-5 Key Points about estimation (5)
+h1:review Review
+h2:review-causal-effects Review: Causal Effects
+h1:estimands-and-estimators-and-averages Estimands and Estimators and Averages
+h2:how-can-we-learn-about-causal-effects-with-observed-data How can we learn about causal effects with observed data?
+h2:a-common-estimand-and-estimator-the-average-treatment-effect-and-the-difference-of-means A Common Estimand and Estimator: The Average Treatment Effect and the Difference of Means
+h2:simulation-step-1-create-some-data-with-a-known-ate Simulation Step 1: create some data with a known ATE
+h2:first-make-fake-data First make fake data
+h2:using-declaredesign Using DeclareDesign:
+h2:using-declaredesign-make-fake-data Using DeclareDesign: make fake data
+h2:using-declaredesign-define-estimand-and-estimators Using DeclareDesign: define estimand and estimators
+h2:using-declaredesign-define-estimand-and-estimators-1 Using DeclareDesign: define estimand and estimators
+h2:using-declaredesign-define-estimand-and-estimators-2 Using DeclareDesign: define estimand and estimators
+h2:then-simulate-with-one-randomization Then simulate with one randomization
+h2:then-simulate-with-one-randomization-1 Then simulate with one randomization
+h2:then-simulate-a-different-randomization-and-estimate-the-ate-with-the-same-estimators Then simulate a different randomization and estimate the ATE with the same estimators
+h2:how-do-our-estimators-behave-in-general-for-this-design How do our estimators behave in general for this design?
+h2:how-do-our-estimators-behave-in-general-for-this-design-1 How do our estimators behave in general for this design?
+h2:which-estimator-is-closer-to-the-truth Which estimator is closer to the truth?
+h2:unbiased-and-biased-estimators Unbiased and biased estimators
+h1:block-randomization Block randomization
+h2:block-randomized-experiments-are-a-collection-of-mini-experiments Block-randomized experiments are a collection of mini-experiments
+h2:block-randomized-experiments-are-a-collection-of-mini-experiments-1 Block-randomized experiments are a collection of mini-experiments
+h2:estimating-the-ate-in-block-randomized-experiments Estimating the ATE in block-randomized experiments
+h2:estimating-the-ate-in-block-randomized-experiments-1 Estimating the ATE in block-randomized experiments
+h2:estimating-the-ate-in-block-randomized-experiments-2 Estimating the ATE in block-randomized experiments
+h2:estimating-the-ate-in-block-randomized-experiments-3 Estimating the ATE in block-randomized experiments
+h2:which-estimator-should-we-use Which estimator should we use?
+h2:which-estimator-should-we-use-1 Which estimator should we use?
+h2:which-estimator-should-we-use-2 Which estimator should we use?
+h2:which-estimator-should-we-use-3 Which estimator should we use?
+h2:which-estimator-is-closer-to-the-truth-1 Which estimator is closer to the truth?
+h1:cluster-randomization Cluster randomization
+h2:in-cluster-randomized-experiments-units-are-randomized-as-a-group-cluster-to-treatment In cluster-randomized experiments, units are randomized as a group (cluster) to treatment
+h2:estimating-the-ate-in-cluster-randomized-experiments Estimating the ATE in cluster-randomized experiments
+h2:estimating-the-se-for-the-ate-in-cluster-randomized-experiments Estimating the SE for the ATE in cluster-randomized experiments
+h2:an-example-of-estimation An example of estimation
+h2:an-example-of-estimation-1 An example of estimation
+h2:use-simulation-to-assess-estimators-and-tests Use simulation to assess estimators and tests
+tab:showresclus1 Estimator and Test Performance in 5000 simulations of the cluster randomized design for different estimators and confidence intervals
+h2:use-simulation-to-assess-estimators-and-tests-1 Use simulation to assess estimators and tests
+tab:showresclus2 Estimator and Test Performance in 5000 simulations of the cluster randomized design for different estimators and confidence intervals
+h2:use-simulation-to-assess-estimators-and-tests-2 Use simulation to assess estimators and tests
+h2:summary-of-estimation-and-testing-in-cluster-randomized-trials Summary of Estimation and Testing in Cluster-Randomized Trials
+h1:binary-outcomes Binary Outcomes
+h2:binary-outcomes-set-up-our-data-for-simulation-in-declaredesign Binary Outcomes: Set up our data for simulation in DeclareDesign
+h2:binary-outcomes-set-up-our-data-for-simulation-in-declaredesign-1 Binary Outcomes: Set up our data for simulation in DeclareDesign
+h2:binary-outcomes-estimands Binary Outcomes: Estimands
+h2:binary-outcomes-estimands-1 Binary Outcomes: Estimands
+h2:binary-outcomes-estimands-2 Binary Outcomes: Estimands
+h2:an-example-of-estimation-2 An example of estimation
+h2:an-example-of-estimation-3 An example of estimation
+h2:an-example-of-estimation-4 An example of estimation
+h2:an-example-of-estimation-the-freedman-plugin-estimators An example of estimation: The Freedman plugin estimators
+h2:an-example-of-estimation-the-freedman-plugin-estimators-1 An example of estimation: The Freedman plugin estimators
+h2:an-example-of-using-declaredesign-to-assess-our-estimators An example of using DeclareDesign to assess our estimators
+h2:an-example-of-using-declaredesign-to-assess-our-estimators-1 An example of using DeclareDesign to assess our estimators
+h2:using-simulation-to-assess-our-estimators Using simulation to assess our estimators
+h2:which-estimator-is-closer-to-the-truth-2 Which estimator is closer to the truth?
+tab:showresbin1 Estimator and Test Performance in 5000 simulations of the different estimators and confidence intervals for a binary outcome and completely randomized design.
+h1:other-topics-in-estimation Other topics in estimation
+h2:covariance-adjustment-estimands Covariance Adjustment: Estimands
+h1:conclusion Conclusion
+h2:final-thoughts-on-basics-of-estimation Final Thoughts on Basics of Estimation
+h1:causal-effects-that-differ-by-groups-or-covariates Causal Effects that differ by groups or covariates
+h2:effects-that-differ-by-groups-1 Effects that differ by groups (1)
+h2:effects-that-differ-by-groups-2 Effects that differ by groups (2)
+h1:causal-effects-when-we-do-not-control-the-dose Causal Effects when We Do Not Control the Dose
+h2:defining-causal-effects-1 Defining causal effects (1)
+h2:defining-causal-effects-2 Defining causal effects (2)
+h2:defining-causal-effects-3 Defining causal effects (3)
+h2:defining-causal-effects-4 Defining causal effects (4)
+h2:defining-causal-effects-5 Defining causal effects (5)
+h2:defining-causal-effects-6 Defining causal effects (6)
+h2:defining-causal-effects-7 Defining causal effects (7)
+h2:learning-about-the-itt-1 Learning about the ITT (1)
+h2:learning-about-the-itt-2 Learning about the ITT (2)
+h2:learning-about-the-itt-3 Learning about the ITT (3)
+h2:learning-about-the-itt-4 Learning about the ITT (4)
+h2:the-complier-average-causal-effect-1 The Complier Average Causal Effect (1)
+h2:the-complier-average-causal-effect-2 The Complier Average Causal Effect (2)
+h2:how-to-calculate-the-itt-and-cacelate-1 How to calculate the ITT and CACE/LATE (1)
+h2:how-to-calculate-the-itt-and-cacelate-2 How to calculate the ITT and CACE/LATE (2)
+h2:how-to-calculate-the-itt-and-cacelate-3 How to calculate the ITT and CACE/LATE (3)
+h2:summary-of-encouragementcomplierdose-oriented-designs Summary of Encouragement/Complier/Dose oriented designs:
+h2:references References
+

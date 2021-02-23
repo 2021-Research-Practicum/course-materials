@@ -1,0 +1,62 @@
+h1:the-role-of-hypothesis-tests-in-causal-inference The Role of Hypothesis Tests in Causal Inference
+h2:key-points-for-this-lecture Key points for this lecture
+h2:the-role-of-hypothesis-tests-in-causal-inference-i The role of hypothesis tests in causal inference I
+h2:the-role-of-hypothesis-tests-in-causal-inference-ii The role of hypothesis tests in causal inference II
+h2:the-role-of-hypothesis-tests-in-causal-inference-iii The role of hypothesis tests in causal inference III
+h1:hypothesis-test Hypothesis Test
+h2:ingredients-of-a-hypothesis-test Ingredients of a hypothesis test
+h2:a-hypothesis-is-a-statement-about-or-model-of-a-relationship-between-potential-outcomes A hypothesis is a statement about or model of a relationship between potential outcomes
+h2:test-statistics-summarize-treatment-to-outcome-relationships Test statistics summarize treatment-to-outcome relationships
+h2:linking-test-statistic-and-hypothesis Linking test statistic and hypothesis
+h2:generating-the-distribution-of-hypothetical-test-statistics Generating the distribution of hypothetical test statistics
+h2:plot-the-randomization-distributions-under-the-null Plot the randomization distributions under the null
+h2:p-values-summarize-the-plots -values summarize the plots
+h2:how-to-do-this-in-r-coin How to do this in R: COIN
+h2:how-to-do-this-in-r-ritools How to do this in R: RItools
+h2:how-to-do-this-in-r-ri2 How to do this in R: RI2
+h2:next-topics Next topics
+h1:testing-weak-null-hypotheses Testing weak null hypotheses
+h2:testing-the-weak-null-of-no-average-effects Testing the weak null of no average effects
+h2:testing-the-weak-null-of-no-average-effects-1 Testing the weak null of no average effects
+h2:testing-the-weak-null-of-no-average-effects-2 Testing the weak null of no average effects
+h1:rejecting-null-hypotheses Rejecting null hypotheses
+h2:rejecting-hypotheses-and-making-errors Rejecting hypotheses and making errors
+h2:false-positive-rates-in-hypothesis-testing False positive rates in hypothesis testing
+fig:normp One-sided p-value from a Normally distributed test statistic.
+h2:false-positive-and-false-negative-errors False positive and false negative errors
+h2:a-single-test-of-a-single-hypothesis A single test of a single hypothesis
+h2:decisions-imply-errors Decisions imply errors
+h2:diagnosing-false-positive-rates-by-simulation Diagnosing false positive rates by simulation
+h2:diagnosing-false-positive-rates-by-simulation-1 Diagnosing false positive rates by simulation
+h2:diagnosing-false-positive-rates-by-simulation-2 Diagnosing false positive rates by simulation
+h2:diagnosing-false-positive-rates-by-simulation-3 Diagnosing false positive rates by simulation
+h2:diagnosing-false-positive-rates-by-simulation-4 Diagnosing false positive rates by simulation
+fig:plotecdf P-value distributions when there are no effects for four tests with n=10. A test that controls its false positive rate should have points on or below the diagonal line.
+h2:false-positive-rate-with-n60-and-binary-outcome False positive rate with  and binary outcome
+fig:plotecdfBig P-value distributions when there are no effects for four tests with n=60 and a binary outcome. A test that controls its false positive rate should have points on or below the diagonal line.
+h2:false-positive-rate-with-n60-and-continuous-outcome False positive rate with  and continuous outcome
+fig:plotecdfBig2 P-value distributions when there are no effects for four tests with n=60 and a continuous outcome. A test that controls its false positive rate should have points on or below the diagonal line.
+h2:summary Summary
+h1:advanced-topics Advanced Topics
+h2:some-advanced-topics-connected-to-hypothesis-testing Some advanced topics connected to hypothesis testing
+h2:what-else-to-know-about-hypothesis-tests What else to know about hypothesis tests
+h2:exercise-hypothesis-tests-and-test-statistics Exercise: Hypothesis Tests and Test Statistics
+h1:testing-many-hypotheses Testing many hypotheses
+h2:when-might-we-test-many-hypotheses When might we test many hypotheses?
+h2:false-positive-rates-in-multiple-hypothesis-testing False positive rates in multiple hypothesis testing
+h2:discoveries-with-multiple-tests Discoveries with multiple tests
+h2:two-main-error-rates-to-control-when-testing-many-hypotheses Two main error rates to control when testing many hypotheses
+h2:questions-with-multiple-outcomes Questions with multiple outcomes
+h2:multiple-hypothesis-testing-multiple-outcomes Multiple hypothesis testing: Multiple Outcomes
+h2:can-we-detect-an-effect-on-outcome-y1 Can we detect an effect on outcome ?
+h2:on-which-of-the-five-outcomes-can-we-detect-an-effect On which of the five outcomes can we detect an effect?
+h2:can-we-detect-an-effect-for-any-of-the-five-outcomes Can we detect an effect for  of the five outcomes?
+h2:comparing-approaches-i Comparing approaches I
+h2:comparing-approaches-ii Comparing approaches II
+h2:the-holm-correction The Holm correction
+h2:multiple-hypothesis-testing-multiple-treatment-arms Multiple hypothesis testing: Multiple treatment arms
+h2:approaches-to-testing-hypotheses-with-multiple-arms Approaches to testing hypotheses with multiple arms
+tab:des2diag Approaches to testing in multi-arm experiments.
+h2:summary-1 Summary
+h2:references References
+

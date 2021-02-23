@@ -1,0 +1,31 @@
+bookdown::gitbook:
+  fig_caption: true
+  lib_dir: "guide_assets"
+  includes:
+    in_header: header.html
+  css: "style.css"
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./"><img src="Resources/Images/egap-logo.png" alt="EGAP Logo" width=100>EGAP Learning Days</a></li>
+      after: |
+        <li><a href="http://egap.org" target="blank"><img src="Resources/Images/egap-logo.png" alt="EGAP Logo" width=100>Published by EGAP</a></li>
+      sharing:
+        facebook: yes
+        github: yes
+        twitter: yes
+        linkedin: yes
+        weibo: yes
+        instapaper: yes
+        vk: no 
+        all: ['facebook', 'github', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    edit: https://github.com/egap/learningdays-guide/edit/master/Guide/%s
+    download: ["pdf", "epub"]
+    csl: apa.csl
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  keep_tex: yes
+bookdown::epub_book: default

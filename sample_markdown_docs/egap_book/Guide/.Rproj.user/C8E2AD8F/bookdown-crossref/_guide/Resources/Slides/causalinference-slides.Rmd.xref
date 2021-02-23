@@ -1,0 +1,39 @@
+h2:why-should-social-scientists-and-policymakers-care-about-causality Why should social scientists and policymakers care about causality?
+h1:counterfactual-approach-to-causal-inference Counterfactual Approach to Causal Inference
+h2:recent-changes-in-social-science-research Recent changes in social science research
+h2:x-causes-y-is-a-claim-about-what-didnt-happen  is a claim about what didn’t happen
+h2:how-to-interpret-x-causes-y-in-this-approach How to interpret  in this approach
+h2:how-to-interpret-x-causes-y-in-this-approach-1 How to interpret  in this approach
+h2:exercise-echinacea Exercise: Echinacea
+h1:potential-outcomes Potential Outcomes
+h2:potential-outcomes-1 Potential Outcomes
+h2:key-features-of-this-definition-of-causal-effect-tau_i-y_i1---y_i0 Key features of this definition of causal effect, 
+h2:imagine-we-know-both-y_i1-and-y_i0-this-is-never-true Imagine we know both  and  (this is never true!)
+h2:potential-outcomes-2 Potential Outcomes
+h2:average-causal-effect Average causal effect
+h2:estimands-and-causal-questions Estimands and causal questions
+h2:other-types-of-estimands-you-may-be-interested-in Other types of estimands you may be interested in
+h1:randomization-of-treatment-assignment Randomization of treatment assignment
+h2:randomization-of-treatment-assignment-1 Randomization of treatment assignment
+h2:random-assignment-vs.-random-sampling Random assignment vs. random sampling
+h2:randomization-is-powerful-1 Randomization is powerful (1)
+h2:randomization-is-powerful-2 Randomization is powerful (2)
+h2:random-sampling Random sampling
+fig:randomsampling Random sample of households
+h2:potential-outcomes-3 Potential outcomes
+fig:randomsamplingred
+h2:random-assignment-to-red-1-or-blue-0-condition Random assignment to red (1) or blue (0) condition
+fig:randomassignment Random assignment of this random sample of households
+h2:three-key-assumptions Three key assumptions
+h2:key-assumption-sutva-part-1 Key assumption: SUTVA, part 1
+h2:key-assumption-sutva-part-2 Key assumption: SUTVA, part 2
+h2:key-assumption-excludability Key assumption: Excludability
+h2:randomization-is-powerful-3 Randomization is powerful (3)
+h1:randomized-vs.-observational-studies Randomized vs. observational studies
+h2:different-types-of-studies Different types of studies
+h2:exercise-learning-about-your-prior-knowledge Exercise: Learning about your prior knowledge
+h2:exercise-observational-studies-vs.-randomized-studies Exercise: Observational studies vs. Randomized studies
+h2:report-and-discuss-the-results-of-the-exercise Report and Discuss the Results of the Exercise
+h2:generalizability-and-external-validity Generalizability and External Validity
+h2:references References
+

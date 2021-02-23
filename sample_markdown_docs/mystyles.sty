@@ -1,0 +1,41 @@
+\usepackage{setspace}\singlespacing
+\usepackage{pdflscape}
+\usepackage{rotating}
+\newcommand{\blandscape}{\begin{landscape}}
+\newcommand{\elandscape}{\end{landscape}}
+\newenvironment{landscapefigure}{\blandscape\begin{figure}[h!]\centering}{\end{figure}\elandscape}
+\newenvironment{landscapetable}[2]{\blandscape\begin{table}[!htbp]\centering\caption{#1}\label{#2}}{\end{table}\elandscape}
+%\usepackage[nolists,nomarkers,heads]{endfloat}
+%\DeclareDelayedFloatFlavor{landscapefigure}{figure}
+%\DeclareDelayedFloatFlavor{landscapetable}{table}
+\usepackage{pifont}
+\newcommand{\cmark}{\ding{51}}
+\providecommand{\vect}[1]{\boldsymbol{\mathbf{#1}}}
+\providecommand{\Ind}[1]{\mathds{1}\left(#1\right)}
+\providecommand{\abs}[1]{\left|#1\right|}
+\usepackage[nameinlink,noabbrev,capitalize]{cleveref}
+\usepackage{color,colortbl}
+\definecolor{NavyBlue}{cmyk}{.75,.75,0,.3}
+
+\usepackage{tikz}
+\usetikzlibrary{calc, shapes, backgrounds, positioning, arrows, decorations.markings}
+\newcommand*{\StrikeThruDistance}{0.15cm}%
+\newcommand*{\StrikeThru}{\StrikeThruDistance,\StrikeThruDistance}%
+
+
+\tikzset{strike thru arrow/.style={
+    decoration={markings, mark=at position 0.5 with {
+        \draw [blue, thick,-] 
+            ++ (-\StrikeThruDistance,-\StrikeThruDistance) 
+            -- ( \StrikeThruDistance, \StrikeThruDistance);}
+    },
+    postaction={decorate},
+}}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks   = true, %Colours links instead of ugly boxes
+  urlcolor     = blue, %Colour for external hyperlinks
+  linkcolor    = blue, %Colour of internal links
+  citecolor   = blue    %Colour of citations
+}

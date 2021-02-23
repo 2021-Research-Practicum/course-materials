@@ -1,0 +1,24 @@
+h1:introduction-to-r-and-rstudio Introduction to R and RStudio
+h2:r-and-rstudio R and RStudio
+h2:downloading-r-and-rstudio Downloading R and RStudio
+h3:downloading-r Downloading R
+h3:downloading-rstudio Downloading RStudio
+fig:rstudiopng Select **Download** in the 
+fig:rstudiodownload Select the Windows Vista/7/8/1 link for Windows or the Mac OS X 10.6+ (64-bit) link for Mac.
+h2:rstudio-interface RStudio Interface
+fig:rstudiointro When you open RStudio, there are three panels visible: the Console (left), Accounting (upper right), and Miscellaneous (lower right).
+h3:console Console
+fig:console2 An image of the console after executing the three lines of code listed above.
+h3:editor Editor
+fig:newscript Create a new R script and open the editor panel by selecting `R Script` from the dropdown menu.
+fig:firstaddition An arithmetic expression is entered in the editor and evaluated in the console. The red boxes are added for emphasis.
+h3:accounting Accounting
+fig:savedata The value 3 * (6/14) is assigned to the variable t (red) and the dataset ChickWeight is added to the global environment (blue). The boxes are added for emphasis.
+h3:miscellaneous Miscellaneous
+fig:graph An example plot of the `ChickWeight` data made in R.
+h2:learning-to-use-r Learning to Use R
+h3:online-resources Online Resources
+h3:basic-practice Basic Practice
+h4:setting-up-an-r-session Setting up an R Session
+h4:r-basics R Basics
+

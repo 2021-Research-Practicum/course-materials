@@ -1,0 +1,20 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {12.1}{\ignorespaces Select **Download** in the "RStudio Desktop Open Source License" column.}}{54}{figure.12.1}%
+\contentsline {figure}{\numberline {12.2}{\ignorespaces Select the Windows Vista/7/8/1 link for Windows or the Mac OS X 10.6+ (64-bit) link for Mac.}}{54}{figure.12.2}%
+\contentsline {figure}{\numberline {12.3}{\ignorespaces When you open RStudio, there are three panels visible: the Console (left), Accounting (upper right), and Miscellaneous (lower right).}}{55}{figure.12.3}%
+\contentsline {figure}{\numberline {12.4}{\ignorespaces An image of the console after executing the three lines of code listed above.}}{55}{figure.12.4}%
+\contentsline {figure}{\numberline {12.5}{\ignorespaces Create a new R script and open the editor panel by selecting `R Script` from the dropdown menu.}}{56}{figure.12.5}%
+\contentsline {figure}{\numberline {12.6}{\ignorespaces An arithmetic expression is entered in the editor and evaluated in the console. The red boxes are added for emphasis.}}{56}{figure.12.6}%
+\contentsline {figure}{\numberline {12.7}{\ignorespaces The value 3 * (6/14) is assigned to the variable t (red) and the dataset ChickWeight is added to the global environment (blue). The boxes are added for emphasis.}}{57}{figure.12.7}%
+\contentsline {figure}{\numberline {12.8}{\ignorespaces An example plot of the `ChickWeight` data made in R.}}{58}{figure.12.8}%

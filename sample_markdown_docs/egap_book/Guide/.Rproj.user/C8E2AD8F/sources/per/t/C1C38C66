@@ -1,0 +1,26 @@
+{
+    "id": "C1C38C66",
+    "path": "~/Dropbox/admin/external/egap/learningdays-guide-master/Guide/_build.sh",
+    "project_path": "_build.sh",
+    "type": "sh",
+    "hash": "858990850",
+    "contents": "",
+    "dirty": false,
+    "created": 1613589906035.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "2,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1613589931,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1613589931849,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,34 @@
+h1:what-is-power What is power?
+h2:what-is-power-1 What is power?
+h2:starting-point-for-power-analysis Starting point for power analysis
+h2:power Power
+h2:approaches-to-power-calculation Approaches to power calculation
+h2:power-calculation-tools Power calculation tools
+h1:analytical-calculations-of-power Analytical calculations of power
+h2:analytical-calculations-of-power-1 Analytical calculations of power
+h2:example-analytical-calculations-of-power Example: Analytical calculations of power
+h2:limitations-to-analytical-power-calculations Limitations to analytical power calculations
+h1:simulation-based-power-calculation Simulation-based power calculation
+h2:simulation-based-power-calculation-1 Simulation-based power calculation
+h2:steps Steps
+h2:examples Examples
+h2:example-simulation-based-power-for-complete-randomization Example: Simulation-based power for complete randomization
+h2:example-simulation-based-power-for-complete-randomization-1 Example: Simulation-based power for complete randomization
+h2:example-using-declaredesign Example: Using DeclareDesign
+h1:power-with-covariate-adjustment Power with covariate adjustment
+h2:covariate-adjustment-and-power Covariate adjustment and power
+h2:blocking Blocking
+h2:example-simulation-based-power-with-a-covariate Example: Simulation-based power with a covariate
+h1:power-for-cluster-randomization Power for cluster randomization
+h2:power-and-clustered-designs Power and clustered designs
+h2:a-note-on-clustering-in-observational-research A note on clustering in observational research
+h2:example-simulation-based-power-for-cluster-randomization Example: Simulation-based power for cluster randomization
+h2:example-simulation-based-power-for-cluster-randomization-declaredesign Example: Simulation-based power for cluster randomization (DeclareDesign)
+h1:comparative-statics Comparative statics
+h2:comparative-statics-1 Comparative Statics
+h2:power-by-sample-size Power by sample size
+h2:power-by-treatment-effect-size Power by treatment effect size
+h2:egap-power-calculator EGAP Power Calculator
+h2:comments Comments
+h2:conclusion-how-to-improve-your-power Conclusion: How to improve your power
+

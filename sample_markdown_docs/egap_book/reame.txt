@@ -1,0 +1,5 @@
+To build the book (i.e. to create EGAP-learningdays-guide.Rmd), run the following files:
+
+_deploy.sh
+Guide/_build.sh
+
