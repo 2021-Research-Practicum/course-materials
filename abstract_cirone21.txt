@@ -1,0 +1,5 @@
+CIRONE, A., COX, G., & FIVA, J. (2021). Seniority-Based Nominations and Political Careers. American Political Science Review, 115(1), 234-251. doi:10.1017/S0003055420000416
+
+Abstract
+
+This paper investigates party use of seniority systems to allocate nominations for elected and appointed offices. Such systems, which can regulate party members’ access to offices at multiple levels of their careers, are defined by two main rules or norms: an incumbent re-nomination norm and a seniority progression norm. Using comprehensive electoral and candidate data from Norwegian local and national elections from 1945 to 2019, we find systematic patterns consistent with these two norms. Our work illuminates an institutional aspect of candidate selection that the current literature has ignored while noting some of the important consequences of seniority-based nominations for party cohesion and stability.
